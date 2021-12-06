@@ -10,7 +10,7 @@ class NavBar extends Component {
 
         return(
         <>
-        <nav className="navbar navbar-expand-lg navbar-dark bg-primary">
+        <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
         <Avatar sx={{ bgcolor: deepPurple[500] }}>KR</Avatar>&nbsp;<Link className="navbar-brand" href="/">Kowsar Rahman</Link>
         <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
         <span className="navbar-toggler-icon"></span>
