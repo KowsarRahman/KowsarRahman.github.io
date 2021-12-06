@@ -8,7 +8,7 @@ class Education extends Component {
         return (
             <>
             {/* Education Section and Experience too */}
-            <center><h1>Education</h1></center>
+            <center><h1>🏫Education</h1></center>
             <section className="text-gray-600 body-font">
         <div className="container px-5 py-24 mx-auto">
             <div className="flex flex-wrap -m-4">
@@ -18,6 +18,7 @@ class Education extends Component {
                 <div className="p-6">
                     <h2 className="tracking-widest text-xs title-font font-medium text-gray-400 mb-1">RMIT University Australia</h2>
                     <h1 className="title-font text-lg font-medium text-gray-900 mb-3">Bachelor of Computer Science</h1>
+                    <p className="leading-relaxed mb-3">⏰(March 2020 - Present)</p>
                     <p className="leading-relaxed mb-3">Due to graduate on 2022.</p>
                 </div>
                 </div>
@@ -28,7 +29,8 @@ class Education extends Component {
                 <div className="p-6">
                     <h2 className="tracking-widest text-xs title-font font-medium text-gray-400 mb-1">Mastermind School, Dhaka, Bangladesh</h2>
                     <h1 className="title-font text-lg font-medium text-gray-900 mb-3">International Advanced Levels</h1>
-                    <p className="leading-relaxed mb-3">High School (2008-2020).</p>
+                    <p className="leading-relaxed mb-3">⏰(2008-2020)</p>
+                    <p className="leading-relaxed mb-3">Completed O-Levels and A-Levels.</p>
                 </div>
                 </div>
             </div>

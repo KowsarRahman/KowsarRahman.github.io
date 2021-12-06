@@ -10,7 +10,7 @@ class Skills extends Component {
             { name: '⚒️BackEnd', description: 'Flask, Spring Boot, Express' },
             { name: '📘Database', description: 'MongoDB, SQL' },
             { name: '🖥️Programming', description: 'Java, Python, C++' },
-            { name: '🧰Tools', description: 'Git, CircleCI, BitBucket' },
+            { name: '🧰Tools', description: 'Git, CircleCI, BitBucket, Docker' },
             { name: '☁️Deployment', description: 'AWS RDS, AWS ElasticBeanStalk, AWS Amplify, AWS EC2, Firebase' },
         ]
 
@@ -20,7 +20,7 @@ class Skills extends Component {
             <div className="bg-white">
             <div className="max-w-2xl mx-auto py-24 px-4 grid items-center grid-cols-1 gap-y-16 gap-x-8 sm:px-6 sm:py-32 lg:max-w-7xl lg:px-8 lg:grid-cols-2" >
                 <div>
-                <h2 className="text-3xl font-extrabold tracking-tight text-gray-900 sm:text-4xl">My Skills</h2>
+                <h2 className="text-3xl font-extrabold tracking-tight text-gray-900 sm:text-4xl">💡My Skills</h2>
                 <p className="mt-4 text-gray-500">
                     I call myself a <strong>full-stack developer</strong> with knowledge ranging from Java to JavaScript, React to Next, SQL to MongoDB, Python to Flask. I have worked with various personal projects of mine and deployed them on AWS and Firebase platforms. I am deeply passionate about mobile web development and cyber security. Hoping to make a career out of Software Engineer as I gradute with a degree in Computer Science from RMIT University at 2022. <strong>Want to hire me?</strong> Please do so!
                 </p>
